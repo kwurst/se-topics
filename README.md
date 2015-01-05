@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/kwurst/se-topics.png?label=ready&title=Ready)](https://waffle.io/kwurst/se-topics)
 se-topics
 =========
 
